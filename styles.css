@@ -39,6 +39,7 @@ body *:after {
   left: -14.5vmin;
   border-radius: 60% 0 0 30%;
 }
+/*head after*/
 .head-1::after {
   width: 20vmin;
   height: 20.5vmin;
