@@ -85,7 +85,7 @@ body *:after {
   transform: rotate(-5deg);
   border-radius: 100%;
 }
-
+/*Neck region*/
 .neck-1 {
   width: 25vmin;
   height: 20vmin;
