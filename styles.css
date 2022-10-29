@@ -64,6 +64,7 @@ body *:after {
   transform: rotate(-1deg);
   border-radius: 100%;
 }
+/*Head two*/
 .head-2::after {
   width: 40vmin;
   height: 40vmin;
