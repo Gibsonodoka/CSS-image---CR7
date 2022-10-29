@@ -55,6 +55,7 @@ body *:after {
   top: 36vmin;
   left: -13vmin;
 }
+/*Head two before*/
 .head-2::before {
   width: 8vmin;
   height: 42vmin;
