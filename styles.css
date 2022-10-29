@@ -31,6 +31,7 @@ body *:after {
   left: -4.5vmin;
   border-radius: 30% 0 0 0;
 }
+/*Head one before*/
 .head-1::before {
   width: 30vmin;
   height: 40vmin;
